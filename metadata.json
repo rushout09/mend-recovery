@@ -1,0 +1,8 @@
+{
+  "name": "Mend - Recovery Guardian",
+  "description": "A Post-Op Recovery Guardian using Gemini Live API for real-time video analysis and gentle audio feedback during physical therapy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
